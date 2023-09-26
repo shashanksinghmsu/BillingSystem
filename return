@@ -1,0 +1,162 @@
+[33mcommit 9bfcd670b72143c296ddf1afbd6870b195a8e31a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Tue Apr 18 22:58:20 2023 +0530
+
+    Login UI backend done !
+
+[33mcommit 4d6ec2d0b596366cf49334752afde0bbad398c0c[m
+Merge: c3c500c 5a625c8
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Tue Apr 18 22:26:49 2023 +0530
+
+    Merge branch 'master' of https://github.com/shashank111msu/BillingSystem
+
+[33mcommit 5a625c8dfefe9c9c77b4f3ad34047ba772ffbc89[m
+Merge: 6eb22cd 685cc68
+Author: shashank111msu <92214987+shashank111msu@users.noreply.github.com>
+Date:   Tue Apr 18 22:26:26 2023 +0530
+
+    Merge pull request #6 from shashank111msu/master
+    
+    addProduct deleteProduct getProductByName getCustomerByName addedd!!
+
+[33mcommit c3c500ccf26820951f463af4c6b435baefccfc1e[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Tue Apr 18 22:26:16 2023 +0530
+
+    Register UI and Login UI modified
+
+[33mcommit 685cc68ef341164324bd7af951c3f70c08e64531[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Tue Apr 18 22:21:57 2023 +0530
+
+    addProduct deleteProduct getProductByName getCustomerByName addedd!!
+
+[33mcommit 6eb22cd6d3d1f7e26672313e0b502abfb1ed0ff1[m
+Merge: 7a4ef11 747bd94
+Author: shashank111msu <92214987+shashank111msu@users.noreply.github.com>
+Date:   Tue Apr 18 15:04:58 2023 +0530
+
+    Merge pull request #5 from shashank111msu/master
+    
+    admin ui and user ui functionality added!!
+
+[33mcommit 747bd94532d79e1915f0d8e761a859653b2eef54[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Tue Apr 18 14:11:02 2023 +0530
+
+    admin ui and user ui functionality added!!
+
+[33mcommit 7a4ef112b1c730e14d92855c1635f6c655cfb0f8[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Fri Apr 14 11:17:46 2023 +0530
+
+    Customer and user functionality of admin panel is done ! search by name method implementation done
+
+[33mcommit b0064f70eea3955f9af9a687fde293b7926b5f61[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Thu Apr 13 12:50:55 2023 +0530
+
+    Login , signUp and admin page added ! basic views functionality done ! Invoice Controller modified
+
+[33mcommit b847fcacdff84582d45ca97af2f4624e5349aeba[m
+Merge: a7a962f 74f00d3
+Author: shashank111msu <92214987+shashank111msu@users.noreply.github.com>
+Date:   Mon Apr 10 10:19:56 2023 +0530
+
+    Merge pull request #4 from shashank111msu/master
+    
+    userGUI modified again :)
+
+[33mcommit 74f00d38f2127599f8936f1cb026475caa268b56[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Sun Apr 9 22:49:34 2023 +0530
+
+    userGUI modified again :)
+
+[33mcommit a7a962f5f644be13b3130032dfdb65e0b31fb1c9[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Sat Apr 8 19:13:40 2023 +0530
+
+    .gitignore cleared
+
+[33mcommit bf233facc2c1aae4d2184b7ed317d99aa155180e[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Sat Apr 8 19:03:05 2023 +0530
+
+    .gitignore modified
+
+[33mcommit d626f149b0641d8c9c34d874b5404479fdbfc0de[m
+Merge: ccc1f97 28aacc6
+Author: shashank111msu <92214987+shashank111msu@users.noreply.github.com>
+Date:   Sat Apr 8 14:00:53 2023 +0530
+
+    Merge pull request #3 from shashank111msu/master
+    
+    userGUI modified
+
+[33mcommit 28aacc61ba035d7ffd4648ab1b7dae1bd5163528[m
+Merge: f7d5937 ccc1f97
+Author: shashank111msu <92214987+shashank111msu@users.noreply.github.com>
+Date:   Sat Apr 8 14:00:27 2023 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit ccc1f975119b860be10244857406fcc594e17ebc[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Sat Apr 8 13:51:07 2023 +0530
+
+    controller for Invoice done ,user controller added basic level functionality done !
+
+[33mcommit f7d59375324f1f965446146d7fe26b7d60dbc9a7[m
+Merge: 13d9e19 65552cf
+Author: shashank111msu <82203754+shashank111msu@users.noreply.github.com>
+Date:   Sat Apr 8 12:48:41 2023 +0530
+
+    Merge branch 'shashank111msu:master' into master
+
+[33mcommit 13d9e19b5af73b39b943d2ae0498e9116270af67[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Sat Apr 8 12:44:16 2023 +0530
+
+    userGUI modified
+
+[33mcommit bac62bbf002118d7ca20025756340a31f8b0c1a5[m
+Merge: b8f1ad1 65552cf
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Sat Apr 8 11:31:30 2023 +0530
+
+    Merge branch 'master' of https://github.com/shashank111msu/BillingSystem
+
+[33mcommit b8f1ad1288e760573b1db2f09551eece2d453d60[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Sat Apr 8 11:30:59 2023 +0530
+
+    addProduct and addCustomer function added !
+
+[33mcommit 65552cf8e2741d909eccbf534128fe99e0f59d08[m
+Merge: f3820be ec69498
+Author: shashank111msu <92214987+shashank111msu@users.noreply.github.com>
+Date:   Sat Apr 8 11:28:31 2023 +0530
+
+    Merge pull request #1 from shashank111msu/master
+    
+    userGUI Added
+
+[33mcommit ec694984751e250f9b61892fa2ce16e10c5c0c02[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Sat Apr 8 11:19:48 2023 +0530
+
+    userGUI Added
+
+[33mcommit f3820bebc3517d63c1a882079d324e76b52077fa[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Thu Apr 6 12:04:17 2023 +0530
+
+    basic level controller for product and customer is done , models added , function for getting all customers and products is done
+
+[33mcommit 738f493947f9f76bae0224efe8379161a5ca12f4[m
+Author: Shashank Singh <shashank12811@gmail.com>
+Date:   Wed Feb 8 09:43:39 2023 +0530
+
+    Initial setup commit
